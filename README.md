@@ -29,3 +29,16 @@ https://majazocom.github.io/Data/books.json
 ```
 
 2. Rendera ut de böcker vars sidor inte är längre än 500 pages
+
+## Övning 4:
+1. Hämta alla besökare till ett jobb-event genom en fetch mot API'et
+```
+https://majazocom.github.io/Data/attendees.json
+```
+
+2. Rendera enbart ut de som skall komma 
+```
+attending: true
+```
+
+3. Rendera enbart ut de som skall komma OCH som har allergier
